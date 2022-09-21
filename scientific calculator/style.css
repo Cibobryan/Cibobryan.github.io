@@ -1,13 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
-/* alfreds change suggestion starts */
-@media (max-width:300px) {
-    .calculator{
-        position: relative;
-        margin-left: 200px;
-    }
-}
 
-/* ends here */
 .calculator {
     padding: 30px;
     border-radius: 1em;
